@@ -1,0 +1,46 @@
+{
+  "name": "arka-themes",
+  "displayName": "ArkaThemes",
+  "description": "A collection of Arka themes: Arka Theme, Arka Theme 2, and Arka Theme 3.",
+  "publisher": "arkabanerjee",
+  "version": "1.0.1",
+  "icon": "media/icon.png",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arkabanerjee/Arka-Themes"
+  },
+  "keywords":["theme",
+    "arka",
+    "arkabanerjee",
+    "arkatheme",
+    "arkatheme3",
+    "vscode","Ayu", "Elegant", "nord", "Nord Themes",
+    "dark",
+    "high-contrast",
+    "high-contrast-theme",
+    "color-theme",
+    "ui","dark theme", "light","Github", "Dracula", "Red Themes"],
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ArkaTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/arkatheme1.json"
+      },
+      {
+        "label": "ArkaTheme 2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/arkatheme2.json"
+      },
+      {
+        "label": "ArkaTheme 3",
+        "uiTheme": "vs-dark",
+        "path": "./themes/arkatheme3.json"
+      }
+    ]
+  }
+}
