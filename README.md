@@ -3,7 +3,7 @@
 A sleek and modern collection of **three custom themes** designed to keep your coding environment sharp, stylish, and distraction-free.  
 This pack includes:
 
-- **Arka Theme** – the original clean and focused look.  
+- **Arka Theme 1** – the original clean and focused look.  
 - **Arka Theme 2** – a bolder variation with refined contrasts.  
 - **Arka Theme 3** – the newest edition with a modernized aesthetic.  
 
@@ -30,6 +30,21 @@ Switch between them seamlessly and find the perfect coding vibe.
 5. Enjoy your new coding experience!  
 
 ---
+### Chosing the right theme
+The Arka Theme Pack includes three themes, each with its own unique features and aesthetic. Choose the one that best suits your coding style and preferences.  
+
+![Choosing the right theme](media/choices.png)
+
+### Editor View
+
+![ArkaTheme 1 Editor](media/ArkaTheme-1.png)
+
+![ArkaTheme 2 Editor](media/ArkaTheme-2.png)
+
+![ArkaTheme 3 Editor](media/ArkaTheme-3.png)
+
+
+We will Include New Themes if we get enough feedback from you.
 
 ## 📝 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
