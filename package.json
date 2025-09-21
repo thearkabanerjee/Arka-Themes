@@ -3,7 +3,7 @@
   "displayName": "ArkaThemes",
   "description": "A collection of Arka themes: Arka Theme, Arka Theme 2, and Arka Theme 3.",
   "publisher": "arkabanerjee",
-  "version": "1.1.1",
+  "version": "1.11.1",
   "icon": "media/icon.png",
   "engines": {
     "vscode": "^1.60.0"
