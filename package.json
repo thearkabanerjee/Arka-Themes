@@ -3,14 +3,14 @@
   "displayName": "ArkaThemes",
   "description": "A collection of Arka themes: Arka Theme, Arka Theme 2, and Arka Theme 3.",
   "publisher": "arkabanerjee",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "icon": "media/icon.png",
   "engines": {
     "vscode": "^1.60.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/arkabanerjee/Arka-Themes"
+    "url": "https://github.com/thearkabanerjee/ArkaThemes"
   },
   "keywords":["theme",
     "arka",
