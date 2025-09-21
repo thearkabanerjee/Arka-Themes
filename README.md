@@ -62,7 +62,7 @@ To get the best look:
   "editor.fontFamily": "Fira Code, JetBrains Mono, Consolas, 'Courier New', monospace",
   "editor.fontLigatures": true,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "ArkaTheme 3",
+  "workbench.colorTheme": "Arka-Themes/ArkaTheme 3 ",
   "window.titleBarStyle": "custom",
   "window.transparency": true // for supported systems/extensions
 }
