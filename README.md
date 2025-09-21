@@ -39,7 +39,7 @@ The Arka Theme Pack includes three themes, each with its own unique features and
 
 ![ArkaTheme 1 Editor](media/ArkaTheme-1.png)
 
-![ArkaTheme 2 Editor](media/ArkaTheme-2.png)
+![ArkaTheme 2 Editor](media/arkaTheme-2.png)
 
 ![ArkaTheme 3 Editor](media/ArkaTheme-3.png)
 
