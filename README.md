@@ -43,6 +43,27 @@ The Arka Theme Pack includes three themes, each with its own unique features and
 
 ![ArkaTheme 3 Editor](media/ArkaTheme-3.png)
 
+## ⚙️ Recommended Setup
+
+To get the best look:
+
+```jsonc
+// settings.json
+{
+  "editor.fontFamily": "Fira Code, JetBrains Mono, Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "ArkaTheme 3",
+  "window.titleBarStyle": "custom",
+  "window.transparency": true // for supported systems/extensions
+}
+```
+
+## 🧑‍💻 Contributing
+
+Have suggestions? Open an [issue](https://github.com/thearkabanerjee/ArkaTheme3/issues) or submit a PR.
+Every improvement makes the theme better for all developers.
+
 
 We will Include New Themes if we get enough feedback from you.
 
