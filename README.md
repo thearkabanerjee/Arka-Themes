@@ -74,7 +74,7 @@ Have suggestions? Open an [issue](https://github.com/thearkabanerjee/Arka-Themes
 Every improvement makes the theme better for all developers.
 
 
-We will Include New Themes if we get enough feedback from you.
+
 
 
 
@@ -93,3 +93,7 @@ We will Include New Themes if we get enough feedback from you.
 
 ## 📝 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+We will Include New Themes if we get enough feedback from you. 
+Hope you like it!
+Happy Coding!
